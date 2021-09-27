@@ -11,7 +11,7 @@ String developer = "Game Dev, Minecraft Client Dev"
 <h4> 📊 Github Statics :</h4>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=LucaForever&show_icons=true&theme=tokyonight&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaForever&layout=compact&theme=tokyonight&count_private=true"/>
+
 <img src="https://komarev.com/ghpvc/?username=LucaForever" alt="views on github" />
 </p>
 
