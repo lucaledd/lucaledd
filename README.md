@@ -11,10 +11,13 @@ String developer = "Game Dev, Minecraft Client Dev"
 <h4> 📊 Github Statics :</h4>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=LucaForever&show_icons=true&theme=tokyonight&count_private=true"/>
-<newline>
+</p>
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=LucaForever" alt="views on github" />
 </p>
-
+<p> </p>
+<p>Contributions, because most of my repos are private. ![image](https://user-images.githubusercontent.com/58527636/140407936-c9b80f7d-2f0e-42a9-981c-c5b36953cbda.png)
+</p>
 <hr /> 
 <h5>Languages i know : </h5>
 <p align="left">
