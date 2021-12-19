@@ -14,9 +14,6 @@ String developer = "Game Dev, Minecraft Client Dev"
 </p>
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=LucaForever" alt="views on github" />
-</p>
-<p>Contributions, because most of my repos are private. <img alt="contributions" href="https://github.com/LucaForever?tab=repositories" src="https://user-images.githubusercontent.com/58527636/140407936-c9b80f7d-2f0e-42a9-981c-c5b36953cbda.png"/>
-</p>
 <hr /> 
 <h5>Languages i know : </h5>
 <p align="left">
