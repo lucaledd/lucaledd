@@ -9,7 +9,7 @@ String whatami = "Fullstack Developer & Video Editor";
 URL website = new URL("https://lucaforever.com");
 ```
 <h2> See my Discord status live on my website: </h2>
-<img src="https://user-images.githubusercontent.com/58527636/184904766-cd30e409-3426-4cc1-9a80-ffab68f323c6.png"/>
+<a href="https://lucaforever.com/status/"><img src="https://user-images.githubusercontent.com/58527636/184904766-cd30e409-3426-4cc1-9a80-ffab68f323c6.png"/></a>
 <h3> https://lucaforever.com/status/ </h3>
 <hr />
 <h4> Github Statics :</h4>
