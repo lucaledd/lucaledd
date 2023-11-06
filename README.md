@@ -24,7 +24,5 @@ class Luca extends Developer {
 
 ------
 #### Contact:
-###### Email currently down.
-~~[contact@lucaforever.com](mailto:contact@lucaforever.com)~~
 ###### Send a message over on Discord:
 [![Discord Icon](https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/VtxhA3T)
