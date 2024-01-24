@@ -10,7 +10,7 @@ class Luca extends Developer {
     public Luca() {
         this.name = "Luca";
         this.description = "Fullstack Developer & Video Editor";
-        this.website = new URL("https://lucaforever.is-a.dev/");
+        this.website = new URL("https://lucaledd.pages.dev/");
     }
 }
 ```
