@@ -16,4 +16,8 @@ class Luca extends Developer {
 ```
 -----
 #### Contact:
-[![Discord Icon](https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/VtxhA3T)
+E-mail: [luca@swiftproject.top](mailto:luca@swiftproject.top)
+
+Twitter/X: [https://twitter.com/lucaledd](https://twitter.com/lucaledd)
+
+Discord server: [https://discord.gg/VtxhA3T](https://discord.gg/VtxhA3T)
