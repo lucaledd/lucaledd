@@ -16,8 +16,5 @@ class Luca extends Developer {
 ```
 -----
 #### Contact:
-E-mail *(either one should work)*: </br>
-[admin@lucaledd.fun](mailto:admin@lucaledd.fun) </br>
+E-mail: </br>
 [luca@swiftproject.top](mailto:luca@swiftproject.top)
-
-Discord: [lucaledd](https://discord.com/users/528186118274023424)
